@@ -1,0 +1,6 @@
+ADD: http://<HOST>:<PORT>/factures-api/webapi/resource/add
+GET: http://<HOST>:<PORT>/factures-api/webapi/resource/get
+
+mlab
+username: inf8430_tp4
+password: nicericoli8430

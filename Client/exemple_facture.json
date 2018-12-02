@@ -1,0 +1,19 @@
+{"facture": [
+	{ 
+		"produit": "patate",
+		"prix": 100
+		
+	}, 
+	{
+		"produit": "bananes", 
+		"prix": 150
+		
+	}, 
+	{
+		"produit": "chocolat",
+		"prix": 2
+		
+	}
+	]
+	
+}
